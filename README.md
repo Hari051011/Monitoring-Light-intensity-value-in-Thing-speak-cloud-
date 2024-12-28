@@ -156,7 +156,8 @@ void loop()
 ![image](https://github.com/user-attachments/assets/45134810-902b-46c3-a0b9-fba50a55374d)
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/6ba51ff0-1448-492b-b211-d0e040007fa0)
+![image](https://github.com/user-attachments/assets/5017c246-535a-4b8b-80e3-ec902a9b4575)
+
 
 # RESULT:
 
